@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "centroidtracker.h": "c",
+        "rb.h": "c"
+    }
+}
